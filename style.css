@@ -121,7 +121,7 @@ h4 {
 
 /* Card design */
 .card {
-    background-color: whitesmoke;
+    background-color: white;
     border: 2px solid var(--Very-Light-Gray);
     padding: 1rem;
     border-radius: .5rem;
